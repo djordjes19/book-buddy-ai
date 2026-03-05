@@ -2,8 +2,6 @@
 
 This project provides an API for retrieving book summaries from a vector database using semantic similarity search. The API is built with FastAPI and utilizes OpenAI's embeddings to perform semantic searches on a ChromaDB vector database.
 
-VIDEO TUTORIAL - https://www.youtube.com/watch?v=jdeQsFsABzs&ab_channel=DjordjeSpasojevic
-
 ## Features
 
 - Retrieve book summaries based on semantic similarity to a given query.
